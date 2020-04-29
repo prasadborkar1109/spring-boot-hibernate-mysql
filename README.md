@@ -15,7 +15,7 @@ using ORM Hibernate (Java Persistent API - JPA).
 
 1. Clone or download repository
 
-	`git clone `
+	`git clone https://github.com/prasadborkar1109/spring-boot-hibernate-mysql.git`
 
 2. Create MySQL database
 	
